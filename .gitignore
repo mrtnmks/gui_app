@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+build/
+dist/
+vysledky/
+*.xlsx
+*.csv
+test_*.py
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
